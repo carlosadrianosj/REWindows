@@ -10,7 +10,7 @@ O principal objetivo deste projeto é fornecer uma plataforma de aprendizado pr�
 
 ## 📺 Canal do YouTube: Invodex 📺
 
-Este projeto é uma extensão do nosso canal do YouTube, [Invodex](https://www.youtube.com/invodex). No canal, oferecemos tutoriais detalhados, análises e discussões que complementam o material disponível aqui. Inscreva-se para ficar por dentro das últimas novidades e tutoriais! 🎥🔔
+Este projeto é uma extensão do nosso canal do YouTube, [Invodex]([https://www.youtube.com/invodex](https://www.youtube.com/channel/UCCjm5iQKfpIixl7QqNK4R4g)). No canal, oferecemos tutoriais detalhados, análises e discussões que complementam o material disponível aqui. Inscreva-se para ficar por dentro das últimas novidades e tutoriais! 🎥🔔
 
 ## 🗂 Conteúdo do Repositório 🗂
 
