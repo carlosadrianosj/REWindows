@@ -1,5 +1,5 @@
-🚀 #Bem-Vindo ao Projeto de Engenharia Reversa do Canal Invodex!# 🚀
-🧩 Sobre Este Projeto 🧩
+#🚀Bem-Vindo ao Projeto de Engenharia Reversa (Windows) do Canal Invodex!🚀
+##🧩Sobre Este Projeto🧩
 Este repositório é o coração 💓 do nosso emocionante projeto de engenharia reversa, dedicado integralmente para fins educativos e de pesquisa. Aqui, você encontrará uma coleção de crackmes e código fonte que foram cuidadosamente elaborados e selecionados para enriquecer seus conhecimentos e habilidades em engenharia reversa. 🕵️‍♂️🛠️
 
 🎯 Objetivo do Projeto 🎯
