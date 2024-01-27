@@ -1,4 +1,4 @@
-#Bem-Vindo ao Projeto de Engenharia Reversa do Canal Invodex! 
+# Bem-Vindo ao Projeto de Engenharia Reversa (Windows) do Canal Invodex! 
 
 ## 🧩 Sobre Este Projeto 🧩
 
