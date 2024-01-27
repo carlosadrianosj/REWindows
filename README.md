@@ -2,7 +2,7 @@
 
 ## 🧩 Sobre Este Projeto 🧩
 
-Este repositório é o coração 💓 do nosso emocionante projeto de engenharia reversa, dedicado integralmente para fins educativos e de pesquisa. Aqui, você encontrará uma coleção de crackmes e código fonte que foram cuidadosamente elaborados e selecionados para enriquecer seus conhecimentos e habilidades em engenharia reversa. 🕵️‍♂️🛠️
+Este repositório é o coração 💓 do projeto de engenharia reversa (Windows), dedicado integralmente para fins educativos e de pesquisa. Aqui, você encontrará uma coleção de crackmes e código fonte que foram cuidadosamente elaborados e selecionados para enriquecer seus conhecimentos e habilidades em engenharia reversa. 🕵️‍♂️🛠️
 
 ## 🎯 Objetivo do Projeto 🎯
 
@@ -34,7 +34,7 @@ Este projeto é disponibilizado sob a [Licença XYZ](). Lembre-se de que todo o 
 
 ## 📞 Contato 📞
 
-Para mais informações, dúvidas ou sugestões, não hesite em nos contatar através de [nossas redes sociais](#) ou pelo e-mail [email@dominio.com].
+Para mais informações, dúvidas ou sugestões, não hesite em nos contatar através de [nossas redes sociais](https://www.instagram.com/carlosadrianosj/).
 
 ---
 
